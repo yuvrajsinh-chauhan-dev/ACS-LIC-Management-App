@@ -15,18 +15,22 @@ The application serves **4 distinct user roles** across **45+ screens**, with ea
  
 ## Screenshots
  
-| Welcome Screen | Sign In | Sign Up |
-|---|---|---|
-| ![Welcome](./screenshots/welcome.png) | ![SignIn](./screenshots/signin.png) | ![SignUp](./screenshots/signup.png) |
+### Splash & Authentication
+![Splash Screen](./splash_screen_design.png)
+![Sign Up Screen](./signup_screen_desing.png)
  
-| User Dashboard | Employee Panel | Admin Panel |
-|---|---|---|
-| ![User](./screenshots/user-dashboard.png) | ![Employee](./screenshots/employee-panel.png) | ![Admin](./screenshots/admin-panel.png) |
+### User Dashboard
+![User Panel](./user_panel_design.png)
+ 
+### Employee Panel
+![Employee Panel](./employee_panel_design.png)
+ 
+### Admin Panel
+![Admin Panel](./admin_panel_design.png)
  
 > *Screenshots shown are UI design mockups. Live app data is confidential.*
  
 ---
- 
 ## Key Features
  
 ### Authentication System
