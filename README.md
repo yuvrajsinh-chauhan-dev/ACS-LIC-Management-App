@@ -167,7 +167,7 @@ Built a custom theme system and reusable widget library so all screens follow th
  
 ## About the Developer
  
-Built entirely by **Yuvrajsinh Chauhan** — sole developer responsible for:
+Built by **Yuvrajsinh Chauhan** — developer responsible for:
 - Requirement gathering and analysis
 - UI/UX design (all 45+ screens)
 - Frontend development (Flutter/Dart)
